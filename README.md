@@ -7,6 +7,10 @@
 2、纯真 IP 数据库
 ```
 
+> 关联文章
+
+Tracert：[https://blog.zgcwkj.cn/archives/54.html](https://blog.zgcwkj.cn/archives/54.html)
+
 > 图片预览：
 
 ![001](/Picture_Preview/001.png)

@@ -78,7 +78,6 @@
             this.Text_IP.Name = "Text_IP";
             this.Text_IP.Size = new System.Drawing.Size(574, 28);
             this.Text_IP.TabIndex = 1;
-            this.Text_IP.Text = "140.83.51.214";
             // 
             // Dgv_Data
             // 
